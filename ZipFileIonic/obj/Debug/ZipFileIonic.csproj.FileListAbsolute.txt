@@ -19,3 +19,5 @@ C:\Users\Nezumi\Desktop\ZipFileIonic\ZipFileIonic\bin\Debug\ZipFileIonic.exe.Cod
 C:\Users\Nezumi\Desktop\ZipFileIonic\ZipFileIonic\bin\Debug\ZipFileIonic.exe.lastcodeanalysissucceeded
 C:\Users\Nezumi\Documents\Visual Studio 2012\Projects\ZipFileIonic\ZipFileIonic\obj\Debug\ZipFileIonic.exe
 C:\Users\Nezumi\Documents\Visual Studio 2012\Projects\ZipFileIonic\ZipFileIonic\obj\Debug\ZipFileIonic.pdb
+C:\Users\Nezumi\Documents\Visual Studio 2012\Projects\ZipFileIonic\Ionic.Zip-example\ZipFileIonic\obj\Debug\ZipFileIonic.exe
+C:\Users\Nezumi\Documents\Visual Studio 2012\Projects\ZipFileIonic\Ionic.Zip-example\ZipFileIonic\obj\Debug\ZipFileIonic.pdb

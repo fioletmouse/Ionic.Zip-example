@@ -49,6 +49,7 @@ namespace ZipFileIonic
         }
     }
 
+    // Structure sample.
     public struct PdfFile
     {
         public string FileName;

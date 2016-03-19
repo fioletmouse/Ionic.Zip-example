@@ -1,0 +1,21 @@
+C:\Users\Никита\Documents\Visual Studio 2012\Projects\ZipFileIonic\ZipFileIonic\bin\Debug\ZipFileIonic.exe
+C:\Users\Никита\Documents\Visual Studio 2012\Projects\ZipFileIonic\ZipFileIonic\bin\Debug\ZipFileIonic.pdb
+C:\Users\Никита\Documents\Visual Studio 2012\Projects\ZipFileIonic\ZipFileIonic\bin\Debug\Ionic.Zip.dll
+C:\Users\Никита\Documents\Visual Studio 2012\Projects\ZipFileIonic\ZipFileIonic\obj\Debug\ZipFileIonic.csprojResolveAssemblyReference.cache
+C:\Users\Никита\Documents\Visual Studio 2012\Projects\ZipFileIonic\ZipFileIonic\obj\Debug\ZipFileIonic.exe
+C:\Users\Никита\Documents\Visual Studio 2012\Projects\ZipFileIonic\ZipFileIonic\obj\Debug\ZipFileIonic.pdb
+C:\Users\Public\Files\Akulenko\ZipFileIonic\ZipFileIonic\obj\Debug\ZipFileIonic.exe
+C:\Users\Public\Files\Akulenko\ZipFileIonic\ZipFileIonic\obj\Debug\ZipFileIonic.pdb
+C:\Users\Public\Files\Akulenko\ZipFileIonic\ZipFileIonic\bin\Debug\ZipFileIonic.exe
+C:\Users\Public\Files\Akulenko\ZipFileIonic\ZipFileIonic\bin\Debug\ZipFileIonic.pdb
+C:\Users\Public\Files\Akulenko\ZipFileIonic\ZipFileIonic\bin\Debug\Ionic.Zip.dll
+C:\Users\Public\Files\Akulenko\ZipFileIonic\ZipFileIonic\obj\Debug\ZipFileIonic.csprojResolveAssemblyReference.cache
+C:\Users\Nezumi\Desktop\ZipFileIonic\ZipFileIonic\obj\Debug\ZipFileIonic.exe
+C:\Users\Nezumi\Desktop\ZipFileIonic\ZipFileIonic\obj\Debug\ZipFileIonic.pdb
+C:\Users\Nezumi\Desktop\ZipFileIonic\ZipFileIonic\bin\Debug\ZipFileIonic.exe
+C:\Users\Nezumi\Desktop\ZipFileIonic\ZipFileIonic\bin\Debug\ZipFileIonic.pdb
+C:\Users\Nezumi\Desktop\ZipFileIonic\ZipFileIonic\bin\Debug\Ionic.Zip.dll
+C:\Users\Nezumi\Desktop\ZipFileIonic\ZipFileIonic\bin\Debug\ZipFileIonic.exe.CodeAnalysisLog.xml
+C:\Users\Nezumi\Desktop\ZipFileIonic\ZipFileIonic\bin\Debug\ZipFileIonic.exe.lastcodeanalysissucceeded
+C:\Users\Nezumi\Documents\Visual Studio 2012\Projects\ZipFileIonic\ZipFileIonic\obj\Debug\ZipFileIonic.exe
+C:\Users\Nezumi\Documents\Visual Studio 2012\Projects\ZipFileIonic\ZipFileIonic\obj\Debug\ZipFileIonic.pdb
